@@ -58,6 +58,8 @@
  * ------------------------------------------------------------------- */
 html {
   font-size: 10px;
+  align-content: center;
+  align-items: center;
 }
 @media only screen and (max-width: 400px) {
   html {
@@ -67,6 +69,7 @@ html {
 
 html, body {
   height: 100%;
+  font-family: "Raleway", sans-serif !important;
 }
 
 body {
@@ -154,7 +157,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.3;
 }
 
